@@ -15,3 +15,6 @@ lighthouse https://sitepoint.com/
 
 
 Building PWA from Scratch
+npm install -g create-react-app
+create-react-app react-pwa
+cd react-pwa/
