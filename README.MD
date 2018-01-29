@@ -6,3 +6,6 @@ Progressive Web Apps: A Crash Course
 https://www.sitepoint.com/progressive-web-apps-a-crash-course/?utm_content=bufferf5004&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 
+Progressive Web Apps (PWAs) try to overlap the worlds of the mobile web apps and native mobile apps by offering the best features of each to mobile users.
+
+
