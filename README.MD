@@ -18,3 +18,9 @@ Building PWA from Scratch
 npm install -g create-react-app
 create-react-app react-pwa
 cd react-pwa/
+
+
+
+
+Material UI, an implementation of Google Material design in React.
+npm install material-ui --save
