@@ -9,3 +9,5 @@ https://www.sitepoint.com/progressive-web-apps-a-crash-course/?utm_content=buffe
 Progressive Web Apps (PWAs) try to overlap the worlds of the mobile web apps and native mobile apps by offering the best features of each to mobile users.
 
 
+npm package Lighthouse
+
