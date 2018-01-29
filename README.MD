@@ -10,4 +10,5 @@ Progressive Web Apps (PWAs) try to overlap the worlds of the mobile web apps and
 
 
 npm package Lighthouse
-
+npm install -g lighthouse
+lighthouse https://sitepoint.com/
